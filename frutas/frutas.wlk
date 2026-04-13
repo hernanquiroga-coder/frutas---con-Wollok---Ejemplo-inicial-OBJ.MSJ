@@ -10,14 +10,14 @@
 // Frutas y otros comestibles 
 
     object banana {
-    method deQueColorSos() = 'amarilla'
-    method azucar() = 2     // debe ser un numero, para respetar la operacion nativa
-    method precio() = mandarina.precio() * 2
+        method deQueColorSos() = 'amarilla'
+        method azucar() = 2     // debe ser un numero, para respetar la operacion nativa
+        method precio() = mandarina.precio() * 2
     }
 
     object morron {
-    method azucar() = 0
-    method precio() = 100
+        method azucar() = 0
+        method precio() = 100
     }
 
     object mandarina {
