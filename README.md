@@ -21,4 +21,4 @@ Este proyecto está diseñado para practicar:
 
 ## Autor
 
-- Proyecto creado como ejemplo educativo.
+- Prof. Lic. Hernán Quiroga
